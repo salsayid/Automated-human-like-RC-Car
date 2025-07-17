@@ -13,7 +13,7 @@ This project combines an RC car with a mounted football-wall dummy wearing a num
 - Configurable autopilot system using Pixhawk 6C and GPS module
 - Field-tested for compatibility with HUDL camera systems
 
-- <img width="2040" height="1530" alt="image" src="https://github.com/user-attachments/assets/a42cb394-0039-40b5-8638-29a56a7116a0" />
+<img width="2040" height="1530" alt="image" src="https://github.com/user-attachments/assets/a42cb394-0039-40b5-8638-29a56a7116a0" />
 <img width="1392" height="748" alt="image" src="https://github.com/user-attachments/assets/a4a3893f-9d55-4332-84b2-ba63cc510ba3" />
 
 

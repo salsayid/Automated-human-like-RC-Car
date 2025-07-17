@@ -24,7 +24,6 @@ This project combines an RC car with a mounted football-wall dummy wearing a num
 - Custom 3D-printed mounting hardware
 - Numbered sports jersey
 
-![alt text](http://url/to/GPSNED.png)
 
 ## Mechanical Design
 
